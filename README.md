@@ -1,2 +1,2 @@
 # OffensiveSecurityMachines
-Offensive Security Machines
+Resolution to Offensive Security Machines
